@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   flutter_cache_manager: 
     git:
-      url: https://github.com/jlcool/flutter_cached_network_image
+      url: https://github.com/jlcool/flutter_cache_manager
 
 dev_dependencies:
   test: ^1.3.0
